@@ -1,12 +1,12 @@
 {
 	"1.12.2": {
-		"title": "Version 1.1",
+		"title": "1.12.2-1.1",
 		"link": "",
 		"versioncode": "112211"
 	},
 	"1.14.4": {
-		"title": "1.14.4-1.1",
+		"title": "1.14.4-1.0",
 		"link": "",
-		"versioncode": "114411"
+		"versioncode": "114410"
 	}
 }
