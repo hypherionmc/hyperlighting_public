@@ -26,6 +26,7 @@ If applicable, add screenshots to help explain your problem.
  - Minecraft Version:
  - Forge Version:
  - Mod Version (BE SPECIFIC. DO NOT USE LATEST!):
+ - Single Player/Server:
 
 **Crash Report*
 Add any other context about the problem here.
